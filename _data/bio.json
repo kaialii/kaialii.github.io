@@ -6,7 +6,7 @@
     "email": "kaialii@hawaii.edu",
     "phone": "",
     "website": "https://kaialii.github.io",
-    "summary": "I am a student at UH Manoa in the B.S. in Computer Science program.",
+    "summary": "I am a student at UH Manoa in the B.S. in Computer Science program with an estimated time of transitioning into the Masters program in 2023. I plan to transition into the Ph.D program after that to ginally graduate in 2024-2025.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,6 +30,20 @@
   "interests": [
     {
       "name": "video game console emulation",
+      "keywords": [
+        "",
+        ""
+      ]
+    },
+      {
+      "name": "retro video gaming",
+      "keywords": [
+        "",
+        ""
+      ]
+    },
+      {
+      "name": "cybersecurity",
       "keywords": [
         "",
         ""
