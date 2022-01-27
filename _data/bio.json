@@ -218,36 +218,36 @@
   ],
   "volunteer": [
     {
-      "competition": "National Cyber League",
-      "term": "FALL",
-      "year": "2019",
+      "organization": "National Cyber League",
+      "startDate": "FALL",
+      "endDate": "2019",
       "summary": "Hackathon",
       "highlights": [
         "Honolulu Community College team placed 95th out of 639 universities/colleges nationwide."
       ]
     },
     {
-      "competition": "NSA Codebreaker Challenge",
-      "term": "FALL",
-      "year": "2019",
+      "organization": "NSA Codebreaker Challenge",
+      "startDate": "FALL",
+      "endDate": "2019",
       "summary": "Hackathon",
       "highlights": [
         "Honolulu Community College team placed 19th out of 532 universities/colleges nationwide."
       ]
     },
     {
-      "competition": "National Cyber League",
-      "term": "FALL",
-      "year": "2020",
+      "organization": "National Cyber League",
+      "startDate": "FALL",
+      "endDate": "2020",
       "summary": "Hackathon",
       "highlights": [
         "University of Hawaii West Oahu team placed 42th out of 957 universities/colleges nationwide."
       ]
     },
     {
-      "competition": "NSA Codebreaker Challenge",
-      "term": "FALL",
-      "year": "2020",
+      "organization": "NSA Codebreaker Challenge",
+      "startDate": "FALL",
+      "endDate": "2020",
       "summary": "Hackathon",
       "highlights": [
         "University of Hawaii West Oahu team placed 12th out of 452 universities/colleges nationwide."
