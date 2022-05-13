@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Bottem Line Up Front"
+title: "Bottom Line Up Front"
 date: 2022-04-28
 labels:
     - Design Patterns
 ---
 
-#          Immaculate Design, BLUF (Bottem Line Up Front)
+#          Immaculate Design, BLUF (Bottom Line Up Front)
 
 Some Design patterns introduced to us during the class consists of: Singleton, MVC, Observer, Factory, Publish-Subscribe, Prototype, and Front Controller. Design patterns are like the template of an algorithm that is uniform with other programing no matter the programmer creating, or utilizing the particular code, in terms of understanding and easily contributing with others who wish to supplement code, in order to solve similar problems in software design no matter the circumstance. Design patterns are like multiple solutions that can solve the same problem. There are multiple ways to program towards an objective from different angles and approaches, depending on how complex, or otherwise simplistic the programmer chooses to implement their code. 
 
