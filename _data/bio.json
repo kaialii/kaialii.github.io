@@ -213,7 +213,7 @@
   "volunteer": [
     {
       "organization": "National Cyber League",
-      "position": "Participant",
+      "position": "Competitor",
       "startDate": "FALL",
       "endDate": "2019",
       "summary": "Hackathon",
@@ -223,7 +223,7 @@
     },
     {
       "organization": "NSA Codebreaker Challenge",
-      "position": "Participant",
+      "position": "Competitor",
       "startDate": "FALL",
       "endDate": "2019",
       "summary": "Hackathon",
@@ -233,7 +233,7 @@
     },
     {
       "organization": "National Cyber League",
-      "position": "Participant",
+      "position": "Competitor",
       "startDate": "FALL",
       "endDate": "2020",
       "summary": "Hackathon",
@@ -243,7 +243,7 @@
     },
     {
       "organization": "NSA Codebreaker Challenge",
-      "position": "Participant",
+      "position": "Competitor",
       "startDate": "FALL",
       "endDate": "2020",
       "summary": "Hackathon",
