@@ -120,11 +120,11 @@
       ]
     },
      {
-      "institution": "University of Hawaii Manoa, Honolulu, HI",
-      "area": "Computer Science",
+      "institution": "University of Hawaii West Oahu, Kapolei, HI",
+      "area": "Cybersecurity, Cyber Operations",
       "studyType": "B.S.",
-      "startDate": "2021-08-23",
-      "endDate": "Present",
+      "startDate": "2024-01-08",
+      "endDate": "2024-05-03",
       "gpa": "",
       "courses": [
       ]
@@ -207,6 +207,17 @@
       "summary": "Network Operations Team Leader",
       "highlights": [
         "Provide Help Desk system administrator and customer support to brigade and subordinate units; diagnosis, repair, and troubleshoot operating systems, software applications, and software and hardware; install, setup and configure workstations for users to access the tactical networks."
+      ]
+    },
+    {
+      "company": "Army Reserves",
+      "position": "(25D) Cyber Network Defender",
+      "website": "",
+      "startDate": "2023-09-29",
+      "endDate": "Present",
+      "summary": "Senior Infrastructure Support",
+      "highlights": [
+        "Test, implement and deploy infrastructure hardware and software. Respond to crisis or urgent situations within the network to mitigate immediate and potential cyber threats. Use defensive measures and information collected from a variety of sources to identify, analyze and report events that occur or might occur within the network in order to protect information, computer systems and networks from threats. Provide detailed analysis reports as necessary. Use mitigation, preparedness, and response and recovery approaches as needed. Conduct assessments of threats and vulnerabilities. Supervises, manages, and troubleshoots Automated information systems (AIS), Tactical Secure Networks, and specialized cyber security appliances."
       ]
     }
   ],
